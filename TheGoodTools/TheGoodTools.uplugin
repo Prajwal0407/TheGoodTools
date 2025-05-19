@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "TheGoodTools",
+	"Description": "These Tools will save you from your everyday simple tasks in your Unreal Project.",
+	"Category": "Tools",
+	"CreatedBy": "",
+	"CreatedByURL": "https://www.linkedin.com/in/prajwal-m-558954141/",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "5.5.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "TheGoodTools",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
